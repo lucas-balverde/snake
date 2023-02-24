@@ -1,0 +1,4 @@
+Jerome : 6
+Tara : 12 
+Andrea : 16
+Lucas : 54
